@@ -2,8 +2,9 @@ hi
 sls
 jdl
 add new line for r4 fix hhjj
-<<<<<<< HEAD
-adding new line
-=======
 adding another line
+<<<<<<< HEAD
+I am murali krishna.
+=======
+int a=0
 >>>>>>> R2.0
